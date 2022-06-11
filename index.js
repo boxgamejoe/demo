@@ -1,2 +1,2 @@
-alert(1)
+alert(5)
 alert(2)
